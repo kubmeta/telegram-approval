@@ -1,4 +1,4 @@
-name: 'Telegram Manual Workflow Approval'
+name: 'Telegram Workflow Approval'
 description: 'Allows for manual approval of workflows via Telegram within chat.'
 author: 'Bulat Khasanov'
 
